@@ -1,9 +1,11 @@
 # LibertuSQL
 C/C++ database and memory manager
 
+<strong style="color:red; font-size: 24px;">THIS PROJECT IS PUT ON HOLD AD VITAM AETERNAM BECAUSE MOST OF ITS SOURCE CODE HAVE BEEN LOST, AND BECAUSE I DEPRECATED IT IN FAVOR OF ANOTHER DATABASE PROJECT WHICH MAY NOT BE MADE AVAILABLE AS AN OPEN SOURCE PROJECT !</strong>
+
 Distribution of the source code will be done exactly when it will be done and not a second before. For now I'll provide information about the software:
 
-##Memory Management
+## Memory Management
 
 You will be able to manage an *Object-Oriented* on disk memory system. It will be basic bu will allow you to easily modify huge bunches of data that won't fit in the RAM.
 
@@ -19,6 +21,6 @@ The syntax will look like this:
 	row.next(); // Go to the second row
 	printf("%i",(int)row.field(1)); // Prints 8
 	
-##Database
+## Database
 
 TODO
